@@ -6,7 +6,7 @@ Ce projet est une exercice d'application sur le REST API en utilisant le gem HTT
 
 ## Installation
 
-Avant d'executer le programme, il faut installer les gems en faisant:
+Avant d'executer le programme, il faut installer les gems:
 
 ```
 $ bundle install
